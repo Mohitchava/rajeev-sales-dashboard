@@ -22,6 +22,9 @@ Clean and intuitive dashboard layout for quick insights
 Optimized data model for faster report performance
 
 
-Data Source
+#Data Source
 
 Online e-commerce dataset (publicly available sample data)
+
+#screenshots
+https://github.com/Mohitchava/rajeev-sales-dashboard/blob/main/Screenshot%202025-12-30%20181813.png
